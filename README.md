@@ -1,2 +1,2 @@
 # rpi-gpio-http-api
-A simple GPIO http api for Raspberry PI
+A simple http api to control the GPIOs form Raspberry PI
